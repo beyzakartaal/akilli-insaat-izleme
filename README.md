@@ -137,4 +137,4 @@ Herhangi bir sorun yaşarsanız:
 4. GitHub Issues üzerinden sorununuzu bildirebilirsiniz
 
 ## Lisans
-[Lisans bilgisi] 
+[Lisans bilgisi]
