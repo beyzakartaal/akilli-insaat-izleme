@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+
+# Model dosyaları
+*.pt
+*.pth
+*.weights
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db 
